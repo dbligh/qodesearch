@@ -1,3 +1,5 @@
+// Written by Daniel Bligh
+
 (function( $ ) {
     $.fn.qodeSearch = function( options, callback ) {
         var thisObj = this;
